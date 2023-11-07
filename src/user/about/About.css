@@ -1,0 +1,13 @@
+.about-container{
+    width: 100%;
+    padding: 3rem;
+}
+
+h1{
+    text-align: center;
+}
+
+.text{
+    text-align: center;
+    line-height: 2;
+}

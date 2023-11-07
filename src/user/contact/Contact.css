@@ -1,0 +1,20 @@
+.contact-container{
+    width: 100%;
+    padding: 3rem;
+
+}
+
+h1{
+    text-align: center;
+}
+
+.text{
+    line-height: 2;
+    text-align: center;
+}
+
+.form{
+    width: 300px;
+    height: 150px;
+    margin: auto;
+}
